@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">EastLondonGuide</string>
-
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_tower">Tower</string>
+    <string name="category_riverside">Riverside</string>
+    <string name="category_isleOfDogs">Isle of Dogs</string>
+    <string name="category_eastEnd">East End</string>
 </resources>
