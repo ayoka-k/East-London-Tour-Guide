@@ -33,6 +33,12 @@ public class AttractionAdapter extends ArrayAdapter<Attraction> {
         // set this text on the description TextView
         descriptionTextView.setText(currentAttraction.getDescription());
 
+        // Find the TextView in the list_item.xml layout with the ID attraction_name
+        TextView attractionNameTextView = listItemView.findViewById(R.id.attraction_name);
+        // Get the description from the current Attraction object and
+        // set this text on the description TextView
+        attractionNameTextView.setText(currentAttraction.getAttractionName());
+
         // Find the ImageView in the list_item.xml layout with the ID image_view
         ImageView image = listItemView.findViewById(R.id.image_view);
         // Check if an image is provided for this word or not

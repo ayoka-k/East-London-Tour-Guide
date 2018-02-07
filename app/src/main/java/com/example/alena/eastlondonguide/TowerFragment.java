@@ -23,8 +23,8 @@ public class TowerFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.attraction_list, container, false);
 
         final ArrayList<Attraction> towerArea = new ArrayList<>();
-        towerArea.add(new Attraction(R.drawable.tower_image, "test"));
-        towerArea.add(new Attraction("test"));
+        towerArea.add(new Attraction(R.drawable.tower_image, "name", "description"));
+        towerArea.add(new Attraction("name", "description"));
 
         AttractionAdapter adapter = new AttractionAdapter(getActivity(), towerArea);
         ListView listView = rootView.findViewById(R.id.list_view_layout);

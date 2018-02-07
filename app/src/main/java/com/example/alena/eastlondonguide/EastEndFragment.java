@@ -24,8 +24,8 @@ public class EastEndFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.attraction_list, container, false);
 
         final ArrayList<Attraction> eastEndArea = new ArrayList<>();
-        eastEndArea.add(new Attraction(R.drawable.east_end_image, "test"));
-        eastEndArea.add(new Attraction("test"));
+        eastEndArea.add(new Attraction(R.drawable.east_end_image, "name", "description" ));
+        eastEndArea.add(new Attraction("name", "description"));
 
         AttractionAdapter adapter = new AttractionAdapter(getActivity(), eastEndArea);
         ListView listView = rootView.findViewById(R.id.list_view_layout);

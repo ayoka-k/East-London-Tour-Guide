@@ -24,8 +24,8 @@ public class RiversideFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.attraction_list, container, false);
 
         final ArrayList<Attraction> riversideArea = new ArrayList<>();
-        riversideArea.add(new Attraction(R.drawable.riverside_image, "test"));
-        riversideArea.add(new Attraction("test"));
+        riversideArea.add(new Attraction(R.drawable.riverside_image, "name", "description"));
+        riversideArea.add(new Attraction("name", "description"));
 
         AttractionAdapter adapter = new AttractionAdapter(getActivity(), riversideArea);
         ListView listView = rootView.findViewById(R.id.list_view_layout);
