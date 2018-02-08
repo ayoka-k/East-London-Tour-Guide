@@ -15,7 +15,6 @@ import java.util.ArrayList;
 
 public class RiversideFragment extends Fragment {
 
-
     public RiversideFragment() {
         // Required empty public constructor
     }
@@ -41,7 +40,8 @@ public class RiversideFragment extends Fragment {
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(attraction.getLocation()));
                 intent.setPackage("com.google.android.apps.maps");
                 startActivity(intent);
-            } });
+            }
+        });
         return rootView;
     }
 }

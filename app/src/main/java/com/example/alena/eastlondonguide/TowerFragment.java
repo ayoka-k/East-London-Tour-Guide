@@ -15,7 +15,6 @@ import java.util.ArrayList;
 
 public class TowerFragment extends Fragment {
 
-
     public TowerFragment() {
         // Required empty public constructor
     }
@@ -41,7 +40,8 @@ public class TowerFragment extends Fragment {
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(attraction.getLocation()));
                 intent.setPackage("com.google.android.apps.maps");
                 startActivity(intent);
-            } });
+            }
+        });
         return rootView;
     }
 }
