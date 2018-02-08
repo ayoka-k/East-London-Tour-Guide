@@ -1,9 +1,10 @@
 <resources>
-    <string name="app_name">EastLondonGuide</string>
+    <string name="app_name">East London Guide</string>
     <string name="category_tower">Tower</string>
     <string name="category_riverside">Riverside</string>
     <string name="category_isleOfDogs">Isle of Dogs</string>
     <string name="category_eastEnd">East End</string>
+    <string name="showLocation">Show Map</string>
 
     <!-- Tower of London -->
     <string name="tower_name1">Tower of London</string>
@@ -17,6 +18,7 @@
         of the leopards on the Plantagenet coat of arms, and there were the start of the Royal
         Menagerie at the Tower.\nThe Last monarch to occupy the Tower was James I. The last
         man to be executed on Tower Hill was Jacobite peer, the 11th Lord Lovat, in 1747.</string>
+    <string name="tower_location1">geo:51.508054,-0.0789826,16.54z</string>
 
     <!-- Tower Bridge -->
     <string name="tower_name2">Tower Bridge</string>
