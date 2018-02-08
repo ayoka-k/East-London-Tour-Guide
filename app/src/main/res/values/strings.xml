@@ -4,4 +4,144 @@
     <string name="category_riverside">Riverside</string>
     <string name="category_isleOfDogs">Isle of Dogs</string>
     <string name="category_eastEnd">East End</string>
+
+    <!-- Tower of London -->
+    <string name="tower_name1">Tower of London</string>
+    <string name="tower_description1">The Tower of London was begun by William the Conqueror
+        in 1078 to replace a temporary wooden structure put up not long after the Battle of
+        Hastings in 1066. The first building to be erected was the central keep, which had
+        walls 15 ft (4.6 m) thick and reached a height of 90 ft (27 m). It was renamed the
+        White Tower after being whitewashed in 1240.\nBy the time Edward I completed the
+        building work at the end of 13th century the outer wall enclosed an area of 18 acres
+        (1.3 ha).\nIn 1235 the Holy Roman Emperor gave Henry III three leopards, in honour
+        of the leopards on the Plantagenet coat of arms, and there were the start of the Royal
+        Menagerie at the Tower.\nThe Last monarch to occupy the Tower was James I. The last
+        man to be executed on Tower Hill was Jacobite peer, the 11th Lord Lovat, in 1747.</string>
+
+    <!-- Tower Bridge -->
+    <string name="tower_name2">Tower Bridge</string>
+    <string name="tower_description2">Tower Bridge is often mistaken for London Bridge.
+        Opened in 1894, it was the last of Victorian bridges across the Thames and is
+        London\'s only bridge that opens.\nFor the first few years of its life the bridge
+        was opened several times a day. Approaching ships would hoot their horn when they
+        reached Cherry Pier downstream, as a signal that they wished to come through. Today,
+        24 hours\' notice is required for the bridge to open. In 1952 a crowded double-decker
+        bus was caught on the bridge as it started to open and the driver had no choice but
+        to accelerate and jump the gap.</string>
+
+    <!-- Wilton's Music Hall -->
+    <string name="tower_name3">Wilton\'s Music Hall</string>
+    <string name="tower_description3">Wilton\'s Music Hall is the oldest surviving
+        music-hall in the world.\nIt started life as a small saloon theatre in the back room
+        of a pub called the Prince of Denmark, but nicknamed as the Mahogany Bar because it
+        was the first pub in London to have mahogany fittings. In 1850 John Wilton bought the
+        pub and expanded the saloon, calling it Wilton\'s Music Hall.\nToday Wilton\'s is run
+        by the Wilton\'s Music Hall Trust and puts on plays, operas, exhibitions and readings.
+        The hall has been left virtually untouched in all its faded, Victorian glory, with the
+        paint peeling and the lighting dim.</string>
+
+    <!-- Shadwell -->
+    <string name="riverside_name1">Shadwell</string>
+    <string name="riverside_description1">The Prospect of Whitby is one of London\'s
+        oldest riverside pubs - there has been a tavern here since at least 1520.
+        Frequented by every kind of smuggler and villain, the place became known as
+        \'Devil\'s Tavern\' until it burned down in the 18th century. It was rebuilt and
+        took the name Prospect of Whitby from a collier which used to moor outside the inn
+        and became something of a local landmark.\nThe huge red-brick building with a tall
+        square tower, opposite the Prospect of Whitby, was built as a pumping station for the
+        London Hydraulic Power Company.The tower, known as an accumulator tower, was pumped full
+        of water during off-peak hours by steam pumps. The water raised a weighted plunger filled
+        with stones, ready to provide power during busy periods. This particular building was the
+        last of the hydraulic pumping stations to shut down, finally closing in 1977. It is now a
+        cafe and exhibition centre laid put around the old turbines, and there is an unusual
+        viewing platform on the roof.</string>
+
+    <!-- King Edward Memorial Park -->
+    <string name="riverside_name2">King Edward Memorial Park</string>
+    <string name="riverside_description2">Kind Edward Memorial Park was opened in 1921
+        on the site of a former fish market and is one of the few places in docklands
+        to have survived unchanged into the new millennium. The river views are wide and
+        splendid, and down by the waterfront is a round, red-brick building covering an air shaft
+        for the Rotherhithe Tunnel, which runs underneath the park. On the wall is a tablet
+        commemorating four Elizabethan explorers who \'in the latter half of the sixteenth
+        century set sail from this reach of the River Thames near Retcliffe Cross\'.</string>
+
+    <!-- Limehouse -->
+    <string name="riverside_name3">Limehouse</string>
+    <string name="riverside_description3">Limehouse takes its name from the many lime
+        kilns that were located here from the 14th century onward, burning chalk brought
+        up the river from Kent, and producing lime for London\'s building industry.\nIt was the
+        location of London\'s first Chinatown, where Chinese sailors arriving on ships bringing
+        tea from China settled in the area during the late 19th and early 20th century. Limehouse
+        acquired a somewhat exaggerated reputation for opium dens and white slavery which fired
+        the imagination of the writers of the day.\nAfter Limehouse was badly bombed in the Blitz,
+        Chinatown moved west to Soho.</string>
+
+    <!-- Canary Wharf -->
+    <string name="isle_of_dogs_name1">Canary Wharf</string>
+    <string name="isle_of_dogs_description1">Canary Wharf, originally constructed in 1937
+        for handling cargoes of fruit from Canary Islands, is now the most visible sign of
+        the immense regeneration happaning in London\'s docklands, which began in the mid
+        1980s and is still spreading eastward, despite a few financial hiccups along the way.
+        \nCanary Wharf appears in the Guinness Book of Records as the largest commercial
+        development in the world, and now features three of the tallest buildings in Britain.
+        One Canada Square, which at 771 ft (235 m) high, was for 20 years the tallest building
+        in Britain.\nThe two 19th-century warehouses along the West India Quayside are the only
+        original warehouses to survive wartime bombing and now contain expensive apartments,
+        restaurants, bars ans a museum.</string>
+
+    <!-- Island Gardens -->
+    <string name="isle_of_dogs_name2">Island Gardens</string>
+    <string name="isle_of_dogs_description2">Island Gardens were laid in 1895 by the
+        Commissioners of the Royal Naval Hospital at Greenwich, both to improve their
+        own view across the river from the hospital, and to give a spectacular vantage-point
+        from which to see Wren\'s masterpiece in its full majesty. The result is possibly the
+        most noble and glorious view on the whole of the Thames. The round, glass-domed red-brick
+        building on the edge of the gardens gives access to the Greenwich foot tunnel. </string>
+
+    <!-- Trinity Buoy Wharf -->
+    <string name="isle_of_dogs_name3">Trinity Buoy Wharf</string>
+    <string name="isle_of_dogs_description3">Trinity Buoy Wharf is the home of London\'s
+        only lighthouse. It was built in 1864 and was used for testing maritime lighting equipment
+        and for training lighthouse keepers.\nThe lighthouse and the other buildings at Trinity
+        Buoy Wharf now house a variety of arts and creative industries ans event an authentic
+        American diner, the Fat Boy Diner.</string>
+
+    <!-- Whitechapel Bell Foundry -->
+    <string name="east_end_name1">Whitechapel Bell Foundry</string>
+    <string name="east_end_description1">Whitechapel Bell Foundry was established in 1570
+        and is the oldest manufacturing company in Britain. The company moved to its present
+        premises, which date from 1670 and originally housed a coaching inn called The Artichoke,
+        in 1738.\nIn 1752 the foundry cast the original Liberty Bell, bearing the
+        inscription\n\'PROCLAIM LIBERTY THROUGHOUT ALL THE LAND UNTO ALL THE INHABITANTS
+        THEREOF\' LEV XXV X.\nThe Liberty Bell was hung in the Philadelphia State House steeple,
+        but for some reason, cracked on the first ring and had to be twice recast.\nThe largest
+        bell ever cast at the Whitechapel Bell Foundry is the most famous bell in the world, the
+        hour bell for the Great Clock of the Westminster, \'Big Ben\', which was cast in 1858
+        and rang out for the first time on 31 May 1859. </string>
+
+    <!-- Tower House -->
+    <string name="east_end_name2">Tower House</string>
+    <string name="east_end_description2">Tower House is situated behind the huge East London
+        Mosque. Formerly Rowton House, a lodgings place built by Disraeli\'s private secretary
+        Lord Rowton, to provide cheap and safe accommodation for young men arriving in London.
+        It was immortalised by Jack London in <i>The People of the Abyss</i> (1902) and by
+        George Orwell in <i>Down and Out in Paris and London</i> (1933). In 1907 Iosif
+        Vissarionovich Dzhugas-hvili, otherwise known as Stalin, the \'Steel One\', stayed here
+        as a penniless 28-year-old student, while attending the 5th Russian Social Democratic
+        Labour Party Congress, held at a venue in Fulbourne Street, opposite the Royal London
+        Hospital. Others who attend the Congress were Vladimir Lenin, Leon Trotsky and Maxim Gorky.
+        Tower House has recently been converted into luxury apartments for capitalist City whiz-kids.</string>
+
+    <!-- Mile End -->
+    <string name="east_end_name3">Mile End</string>
+    <string name="east_end_description3">Mile End takes its name from the first milestone outside
+        London\'s Aldgate, which was positioned close to where Mile End Road meets Stepney Green.
+        \nOn the north side of Mile End Road are some of the most handsome buildings in the East
+        End, the Trinity Almshouses. They were built in 1697 to house \'28 decayed masters and
+        commanders of ships or widows of such\' and were possibly designed by Sir Christopher
+        Wren and John Evelyn.\nThe explorer Captain James Cook (1728-79) and his family lived
+        at No. 88 Mile End Road, almost opposite. Some of his children were born here, and it was
+        from this house that he set off on his last journey. For some reason the house was
+        demolished ans the site is now marked by a blue plaque.</string>
 </resources>

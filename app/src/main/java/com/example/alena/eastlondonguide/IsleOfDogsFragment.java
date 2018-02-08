@@ -24,8 +24,9 @@ public class IsleOfDogsFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.attraction_list, container, false);
 
         final ArrayList<Attraction> isleOfDogsArea = new ArrayList<>();
-        isleOfDogsArea.add(new Attraction(R.drawable.isle_of_dogs_image, "name", "description"));
-        isleOfDogsArea.add(new Attraction("name", "description"));
+        isleOfDogsArea.add(new Attraction(R.drawable.isle_of_dogs_image, R.string.isle_of_dogs_name1, R.string.isle_of_dogs_description1));
+        isleOfDogsArea.add(new Attraction(R.string.isle_of_dogs_name2, R.string.isle_of_dogs_description2));
+        isleOfDogsArea.add(new Attraction(R.string.isle_of_dogs_name3, R.string.isle_of_dogs_description3));
 
         AttractionAdapter adapter = new AttractionAdapter(getActivity(), isleOfDogsArea);
         ListView listView = rootView.findViewById(R.id.list_view_layout);

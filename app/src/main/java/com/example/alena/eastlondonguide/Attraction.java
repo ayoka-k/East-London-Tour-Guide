@@ -3,29 +3,29 @@ package com.example.alena.eastlondonguide;
 public class Attraction {
 
     private int mImageResourceId = NO_IMAGE_PROVIDED;
-    private String mAttractionName;
-    private String mDescription;
+    private int mAttractionNameResourceId;
+    private int mDescriptionResourceId;
     public static final int NO_IMAGE_PROVIDED = -1;
 
-    public Attraction(int imageResourceId, String attractionName, String description) {
+    public Attraction(int imageResourceId, int attractionName, int description) {
         mImageResourceId = imageResourceId;
-        mAttractionName = attractionName;
-        mDescription = description;
+        mAttractionNameResourceId = attractionName;
+        mDescriptionResourceId = description;
     }
 
-    public Attraction(String attractionName, String description) {
-        mAttractionName = attractionName;
-        mDescription = description;
+    public Attraction(int attractionName, int description) {
+        mAttractionNameResourceId = attractionName;
+        mDescriptionResourceId = description;
     }
 
     public int getImageResourceId() {
         return mImageResourceId;
     }
 
-    public String getAttractionName() { return mAttractionName; }
+    public int getAttractionName() { return mAttractionNameResourceId; }
 
-    public String getDescription() {
-        return mDescription;
+    public int getDescription() {
+        return mDescriptionResourceId;
     }
 
     public boolean hasImage() {
